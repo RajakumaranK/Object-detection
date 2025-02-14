@@ -55,4 +55,10 @@ termcolor==2.5.0
 
 wheel==0.44.0
 
+Flask
+numpy
+Pillow
+tensorflow-cpu
+werkzeug
+
 gunicorn
